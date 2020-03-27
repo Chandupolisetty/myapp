@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -8,9 +8,9 @@ a {
 }
 
 p {
-  color: blue;
+  color: rgb(248, 55, 7);
 }
 
 h1{
-  color: red;
+  color: rgb(0, 132, 255);
 }
