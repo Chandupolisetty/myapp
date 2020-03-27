@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.0.0",
+  "author": "Chandrakanth Polisetty",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
